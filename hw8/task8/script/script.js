@@ -38,8 +38,8 @@ const cinderellas = [
     new Cinderella("Попелюшка 9", 22, 38),
     new Cinderella("Попелюшка 10", 20, 39)
 ];
+git remote add origin https://github.com/KonstantaIsName/JavaScriptHw.git
 
-// Створення двох принців
 const prince1 = new Prince("Принц 1", 30, 36, 18);  // Вік 30, шукає попелюшку з розміром 36 та віком 18
 const prince2 = new Prince("Принц 2", 25, 38, 22);  // Вік 25, шукає попелюшку з розміром 38 та віком 22
 
